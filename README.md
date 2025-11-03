@@ -50,13 +50,10 @@ It demonstrates clean **Object-Oriented Programming (OOP)** design with strong e
 1. Create Account
 2. Access Existing Account
 3. Exit
-Enter your choice: 1
-Enter account holder name: Chaitanya
+* Enter your choice: 1
+* Enter account holder name: Chaitanya
 ✅ Account created successfully!
 Account Number: CH1234
-
----
-
 
 ---
 
