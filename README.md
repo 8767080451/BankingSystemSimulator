@@ -52,8 +52,8 @@ It demonstrates clean **Object-Oriented Programming (OOP)** design with strong e
 3. Exit
 * Enter your choice: 1
 * Enter account holder name: Chaitanya
-✅ Account created successfully!
-Account Number: CH1234
+* Account created successfully!
+* Account Number: CH1234
 
 ---
 
