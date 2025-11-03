@@ -47,8 +47,9 @@ It demonstrates clean **Object-Oriented Programming (OOP)** design with strong e
 4. Use the console menu to perform operations like create, deposit, withdraw, transfer, etc.
 
 ## 📊 Sample Output
-Welcome to the Banking System Simulator
-Exit
+1. Create Account
+2. Access Existing Account
+3. Exit
 Enter your choice: 1
 Enter account holder name: Chaitanya
 ✅ Account created successfully!
